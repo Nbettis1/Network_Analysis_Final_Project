@@ -17,7 +17,7 @@ This repository contians information and analysis of three networks and their tr
 - Update systems to the latest versions. (Windows Defender or Apple Platform Security can warn you and stop well known viruses before they take hold.)
 - Invest in an intrusion detection or prevention system. These can be part of a single WAP's provided services and are crucial for business security.
 - Utilize anti-virus software and update it to the latest release. (Multiple incidents in this analysis could have been prevented by utilizing anti-virus as the exploits were well known.)
-- Ensure the principle of least privilege is applied. (Device security management is crucial whether it is not giving employees access to create and add devices like an active directory or having proper account restrictions so that a compromised account doesn't have full system access.)
+- Ensure the principle of least privilege is applied. (Device security management is crucial. This includes right and privileges of users ranging from ability to change or add devices to a network, like the added active directory that bypassed security, or having proper account restrictions so that a compromised account doesn't have full system access.)
 
 ###Full documentation of findings can be found in this report
 ![Network_Analysis_Documentation](https://github.com/Nbettis1/Network_Analysis_Final_Project/blob/main/Network%20Analysis%20%5BNick_Bettis%5D.docx
