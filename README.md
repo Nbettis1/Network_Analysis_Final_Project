@@ -21,4 +21,4 @@ This repository contians information and analysis of three networks and their tr
 
 ###Full documentation of findings can be found in this report
 
-![Network_Analysis_Documentation](https://github.com/Nbettis1/Network_Analysis_Final_Project/blob/main/Network%20Analysis%20%5BNick_Bettis%5D.docx
+![Network_Analysis_Documentation](https://github.com/Nbettis1/Network_Analysis_Final_Project/blob/main/Network%20Analysis%20%5BNick_Bettis%5D.docx)
